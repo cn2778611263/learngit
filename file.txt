@@ -1,2 +1,2 @@
-Git is versoin contral system
-Git is free
+Git Is versoin contral system
+Git Is free
